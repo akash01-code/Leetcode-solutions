@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/akash01-code/Leetcode-solutions/tree/master/0263-ugly-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akash01-code/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/akash01-code/Leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 ## Number Theory

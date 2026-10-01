@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/akash01-code/Leetcode-solutions/tree/master/0066-plus-one) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akash01-code/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/akash01-code/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0263-ugly-number](https://github.com/akash01-code/Leetcode-solutions/tree/master/0263-ugly-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akash01-code/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/akash01-code/Leetcode-solutions/tree/master/2413-smallest-even-multiple) |

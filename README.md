@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/akash01-code/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/akash01-code/Leetcode-solutions/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/akash01-code/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akash01-code/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
 |  |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/akash01-code/Leetcode-solutions/tree/master/0242-valid-anagram) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/akash01-code/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->

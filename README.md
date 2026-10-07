@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akash01-code/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/akash01-code/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/akash01-code/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akash01-code/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akash01-code/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/akash01-code/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/akash01-code/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/akash01-code/Leetcode-solutions/tree/master/0344-reverse-string) |
 ## Sorting
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akash01-code/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/akash01-code/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
